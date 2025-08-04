@@ -34,24 +34,7 @@
 ## My Tech Stack & Tools
 
 <p align="center">
-  <!-- Techstack Generator Icons -->
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="86" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="86" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="86" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="86" />
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="86" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="86" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" width="60" />
-  <img src="https://skillicons.dev/icons?i=css" width="60"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="60" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="60" />
-  <img src="https://skillicons.dev/icons?i=git" width="60" />
-  <img src="https://skillicons.dev/icons?i=github" width="60" />
-  <img src="https://skillicons.dev/icons?i=figma" width="60" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="60" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,sass,bootstrap,cpp,git,github,figma,vscode" />
 </p>
 
 
