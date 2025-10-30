@@ -21,8 +21,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?palette=009DC5
+            dist/github-snake-dark.svg?palette=009DC5
             
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
