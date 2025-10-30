@@ -51,6 +51,17 @@
 </p>
 
 ---
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/emanmohamedsr/emanmohamedsr/blob/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/emanmohamedsr/emanmohamedsr/blob/output/github-snake.svg">
+    <img alt="github-snake" src="https://github.com/emanmohamedsr/emanmohamedsr/blob/output/github-snake.svg">
+  </picture>
+</div>
+
+---
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="90" alt="Rocket Animation"/>
